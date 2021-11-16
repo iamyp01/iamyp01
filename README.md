@@ -16,8 +16,8 @@
 
 ### Languages and Tools :computer:
 
-[![Dart](https://img.shields.io/badge/-Python-0175C2?style=flat&logo=python&link=https://github.com/iamyp01)](https://github.com/iamyp01)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/iamyp01)](https://github.com/iamyp01)
+[![Python](https://img.shields.io/badge/-Python-0175C2?style=flat&logo=python&link=https://github.com/iamyp01)](https://github.com/iamyp01)
+[![C++](https://img.shields.io/badge/-C++-02569B?style=flat&logo=cpp&link=https://github.com/iamyp01)](https://github.com/iamyp01)
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sumitt1080)](https://github.com/iamyp01)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/iamyp01)](https://github.com/iamyp01) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/iamyp01)](https://github.com/iamyp01)
