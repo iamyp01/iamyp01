@@ -1,34 +1,40 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Parashar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+# Hola 👐 , I'm Yuvraj Parashar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://raw.githubusercontent.com/sumitt1080/sumitt1080/master/Github.jpg">
+</br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-parashar&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-parashar" /> </p>
+👨‍🎓 B.Tech in Computer Science from the **[ITM GOI, Gwalior](http://www.itmgoi.in/)** 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj-parashar" alt="yuvraj-parashar" /></a> </p>
+### About me :eyes:
 
-- 🌱 I’m currently learning **Javascript, C++, Data Structures, DBMS**
+- :dart: Python Developer  
+- :smiley: Member of **[CODEX](https://github.com/codex-iter)** 
+- :e-mail: Ask me about anything  **[yuvrajparashar710@gmail.com](yuvrajparashar710@gmail.com)**
+- :satellite: My Website **[Click Here](https://iamyp01.github.io/#/)**
 
-- 💬 Ask me about **Javascript, Data Structures**
+![Yuvraj Parashar's github stats](https://github-readme-stats.vercel.app/api?username=iamyp01&show_icons=true&theme=dracula)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamyp01&theme=tokyonight)
 
-- 📫 How to reach me **yuvrajparashar710@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Languages and Tools :computer:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yuvraj-parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-parashar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13826047/yuvraj-parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yuvraj-parashar" height="30" width="40" /></a>
-<a href="https://medium.com/@yuvrajparashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yuvrajparashar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yuvrajparashar71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yuvrajparashar71" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yuvrajparashar710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yuvrajparashar710" height="30" width="40" /></a>
-</p>
+[![Dart](https://img.shields.io/badge/-Python-0175C2?style=flat&logo=python&link=https://github.com/iamyp01)](https://github.com/iamyp01)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/iamyp01)](https://github.com/iamyp01)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sumitt1080)](https://github.com/iamyp01)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/iamyp01)](https://github.com/iamyp01) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/iamyp01)](https://github.com/iamyp01)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj-parashar&show_icons=true&locale=en&layout=compact" alt="yuvraj-parashar" /></p>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyp01&theme=dracula&hide_langs_below=1" /></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvraj-parashar&show_icons=true&locale=en" alt="yuvraj-parashar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-parashar&" alt="yuvraj-parashar" /></p>
+### Here are some ideas to get you started:
+
+- 🔭 I’m currently working on **Some Self Projects**
+- 🌱 I’m currently learning **ML and Data Science**
+- 👯 I’m looking to collaborate on **Web DEV and ML**
+- 🤔 I’m looking for help with **Frontend**
+- 💬 Ask me about **Python, ML, Git, Github**
+- 📫 How to reach me: **yuvrajparashar710@gmail.com**
+- ⚡ Fun fact: **There is no Fun Fact**
+<!-- - 😄 Pronouns: ... -->
+
+
+### Reach out to me 👓
