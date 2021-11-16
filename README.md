@@ -1,4 +1,4 @@
-# Hola 👐 , I'm Yuvraj Parashar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://raw.githubusercontent.com/sumitt1080/sumitt1080/master/Github.jpg">
+# Hola 👐 , I'm Yuvraj Parashar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://user-images.githubusercontent.com/66880935/142005338-078cc96d-91c6-4df5-bba0-264b38222bdb.png">
 </br>
 
 👨‍🎓 B.Tech in Computer Science from the **[ITM GOI, Gwalior](http://www.itmgoi.in/)** 
