@@ -38,3 +38,10 @@
 
 
 ### Reach out to me 👓
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/iamyp01/)
+  [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://iamyp01.github.io)
+  <a href="mailto:yuvrajparashar710@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+  [<img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="3.5%"/>](https://github.com/iamyp01)
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/iamyp01)
+  [<img src="https://img.icons8.com/color/48/4a90e2/GeeksforGeeks.png" width="3.5%"/>](https://auth.geeksforgeeks.org/user/iamyp01/articles)
+  [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/13826047/yuvraj-parashar)
