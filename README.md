@@ -1,12 +1,13 @@
-# Hola 👐 , I'm Yuvraj Parashar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://user-images.githubusercontent.com/66880935/142005338-078cc96d-91c6-4df5-bba0-264b38222bdb.png">
+# Hola 👐 , I'm Yuvraj Parashar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </br>
+
+
 
 👨‍🎓 B.Tech in Computer Science from the **[ITM GOI, Gwalior](http://www.itmgoi.in/)** 
 
 ### About me :eyes:
 
 - :dart: Python Developer  
-- :smiley: Member of **[CODEX](https://github.com/codex-iter)** 
 - :e-mail: Ask me about anything  **[yuvrajparashar710@gmail.com](yuvrajparashar710@gmail.com)**
 - :satellite: My Website **[Click Here](https://iamyp01.github.io/#/)**
 
@@ -16,8 +17,8 @@
 
 ### Languages and Tools :computer:
 
-[![Python](https://img.shields.io/badge/-Python-0175C2?style=flat&logo=python&link=https://github.com/iamyp01)](https://github.com/iamyp01)
-[![C++](https://img.shields.io/badge/-C++-02569B?style=flat&logo=cpp&link=https://github.com/iamyp01)](https://github.com/iamyp01)
+[![Python](https://img.shields.io/badge/-Python-blueviolet?style=flat&logo=python&link=https://github.com/iamyp01)](https://github.com/iamyp01)
+[![C++](https://img.shields.io/badge/-C++-02569B?style=flat&logo=c++&link=https://github.com/iamyp01)](https://github.com/iamyp01)
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/sumitt1080)](https://github.com/iamyp01)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/iamyp01)](https://github.com/iamyp01) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/iamyp01)](https://github.com/iamyp01)
