@@ -7,7 +7,7 @@
 
 ### About me :eyes:
 
-- :dart: Python Developer  
+- :dart: Java Developer  
 - :e-mail: Ask me about anything  **[yuvrajparashar710@gmail.com](yuvrajparashar710@gmail.com)**
 - :satellite: My Website **[Click Here](https://iamyp01.github.io/#/)**
 
